@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\bin\Debug\net8.0\05.LatihanKonversiTipeData.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\bin\Debug\net8.0\05.LatihanKonversiTipeData.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\bin\Debug\net8.0\05.LatihanKonversiTipeData.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\bin\Debug\net8.0\05.LatihanKonversiTipeData.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\bin\Debug\net8.0\05.LatihanKonversiTipeData.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\obj\Debug\net8.0\05.LatihanKonversiTipeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\obj\Debug\net8.0\05.LatihanKonversiTipeData.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\obj\Debug\net8.0\05.LatihanKonversiTipeData.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\obj\Debug\net8.0\05.LatihanKonversiTipeData.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\obj\Debug\net8.0\05.LatihanKonversiTipeData.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\obj\Debug\net8.0\refint\05.LatihanKonversiTipeData.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\obj\Debug\net8.0\05.LatihanKonversiTipeData.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\obj\Debug\net8.0\05.LatihanKonversiTipeData.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\05.LatihanKonversiTipeData\obj\Debug\net8.0\ref\05.LatihanKonversiTipeData.dll
