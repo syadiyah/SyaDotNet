@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MemahamiVariable", "MemahamiVariable\01.MemahamiVariable.csproj", "{EB0CA238-046A-474E-91EA-088224472E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MemahamiVariableImplicitConversion", "MemahamiVariableImplicitConversion\03.MemahamiVariableImplicitConversion.csproj", "{D93D2956-DA06-4A37-86A5-0DDFB97C0EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MemahamiVariableExplisitConversion", "MemahamiVariableExplisitConversion\02.MemahamiVariableExplisitConversion.csproj", "{F2996C3B-F3C3-4FAB-9CB7-D8DD73141DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.LatihanKonversiTipeData", "04.LatihanKonversiTipeData\04.LatihanKonversiTipeData.csproj", "{10534D03-778A-424B-ADBA-2FAAA5101E65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0CA238-046A-474E-91EA-088224472E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0CA238-046A-474E-91EA-088224472E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0CA238-046A-474E-91EA-088224472E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0CA238-046A-474E-91EA-088224472E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93D2956-DA06-4A37-86A5-0DDFB97C0EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93D2956-DA06-4A37-86A5-0DDFB97C0EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93D2956-DA06-4A37-86A5-0DDFB97C0EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93D2956-DA06-4A37-86A5-0DDFB97C0EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2996C3B-F3C3-4FAB-9CB7-D8DD73141DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2996C3B-F3C3-4FAB-9CB7-D8DD73141DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2996C3B-F3C3-4FAB-9CB7-D8DD73141DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2996C3B-F3C3-4FAB-9CB7-D8DD73141DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10534D03-778A-424B-ADBA-2FAAA5101E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10534D03-778A-424B-ADBA-2FAAA5101E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10534D03-778A-424B-ADBA-2FAAA5101E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10534D03-778A-424B-ADBA-2FAAA5101E65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {018DD90C-5CBF-474C-94CB-3B2DC9B78685}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\bin\Debug\net8.0\MemahamiVariableImplicitConversion.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\bin\Debug\net8.0\MemahamiVariableImplicitConversion.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\bin\Debug\net8.0\MemahamiVariableImplicitConversion.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\bin\Debug\net8.0\MemahamiVariableImplicitConversion.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\bin\Debug\net8.0\MemahamiVariableImplicitConversion.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\obj\Debug\net8.0\MemahamiVariableImplicitConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\obj\Debug\net8.0\MemahamiVariableImplicitConversion.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\obj\Debug\net8.0\MemahamiVariableImplicitConversion.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\obj\Debug\net8.0\MemahamiVariableImplicitConversion.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\obj\Debug\net8.0\MemahamiVariableImplicitConversion.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\obj\Debug\net8.0\refint\MemahamiVariableImplicitConversion.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\obj\Debug\net8.0\MemahamiVariableImplicitConversion.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\obj\Debug\net8.0\MemahamiVariableImplicitConversion.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariableImplicitConversion\obj\Debug\net8.0\ref\MemahamiVariableImplicitConversion.dll

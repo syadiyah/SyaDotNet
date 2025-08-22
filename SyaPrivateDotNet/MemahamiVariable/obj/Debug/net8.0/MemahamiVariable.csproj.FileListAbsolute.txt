@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\bin\Debug\net8.0\MemahamiVariable.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\bin\Debug\net8.0\MemahamiVariable.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\bin\Debug\net8.0\MemahamiVariable.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\bin\Debug\net8.0\MemahamiVariable.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\bin\Debug\net8.0\MemahamiVariable.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\obj\Debug\net8.0\MemahamiVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\obj\Debug\net8.0\MemahamiVariable.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\obj\Debug\net8.0\MemahamiVariable.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\obj\Debug\net8.0\MemahamiVariable.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\obj\Debug\net8.0\MemahamiVariable.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\obj\Debug\net8.0\refint\MemahamiVariable.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\obj\Debug\net8.0\MemahamiVariable.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\obj\Debug\net8.0\MemahamiVariable.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\MemahamiVariable\obj\Debug\net8.0\ref\MemahamiVariable.dll
