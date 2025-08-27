@@ -42,3 +42,15 @@ int nilaiC = 75;
 double rataRata = (nilaiA + nilaiB + nilaiC) / 3;
 
 Console.WriteLine($"rata rata: {rataRata} ");
+
+//latihan6
+
+//jika umurnya belum 17 tahun, maka status memilihnya belum bisa memilih. 
+//kalo sudah sudah bisa memilih
+
+int umur = 16;
+bool status  = true;
+
+string statusMemilih = (umur >= 17 && status) ? "Bisa memilih" : "Belum  bisa memilih";
+
+Console.WriteLine($"status : {statusMemilih}");
