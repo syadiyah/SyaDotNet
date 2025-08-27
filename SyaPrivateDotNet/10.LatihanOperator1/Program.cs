@@ -33,3 +33,12 @@ Console.WriteLine($"hasil sisa bagi = {hasilSisaBagi}");
 int hasil4 = (10 + 5) * 2 + 5;
 
 Console.WriteLine(hasil4);
+
+//latihan5
+int nilaiA = 85;
+int nilaiB = 90;
+int nilaiC = 75;
+
+double rataRata = (nilaiA + nilaiB + nilaiC) / 3;
+
+Console.WriteLine($"rata rata: {rataRata} ");
