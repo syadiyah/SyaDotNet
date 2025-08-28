@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\bin\Debug\net8.0\11.LatihanOperator2.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\bin\Debug\net8.0\11.LatihanOperator2.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\bin\Debug\net8.0\11.LatihanOperator2.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\bin\Debug\net8.0\11.LatihanOperator2.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\bin\Debug\net8.0\11.LatihanOperator2.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\obj\Debug\net8.0\11.LatihanOperator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\obj\Debug\net8.0\11.LatihanOperator2.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\obj\Debug\net8.0\11.LatihanOperator2.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\obj\Debug\net8.0\11.LatihanOperator2.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\obj\Debug\net8.0\11.LatihanOperator2.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\obj\Debug\net8.0\refint\11.LatihanOperator2.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\obj\Debug\net8.0\11.LatihanOperator2.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\obj\Debug\net8.0\11.LatihanOperator2.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\11.LatihanOperator2\obj\Debug\net8.0\ref\11.LatihanOperator2.dll
