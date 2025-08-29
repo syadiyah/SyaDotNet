@@ -11,8 +11,8 @@ int jarakTempuh = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input Kosumsi bahan bakar: ");
 double kosumsiBahanBakar = Convert.ToDouble(Console.ReadLine());
 
-int totalBensin = jarakTempuh / Convert.ToInt32(kosumsiBahanBakar);
-int totalBiayaPerjalanan = totalBensin * Convert.ToInt32(hargaBensin);
+double totalBensin = jarakTempuh / kosumsiBahanBakar;
+double totalBiayaPerjalanan = totalBensin * hargaBensin;
 
 
 Console.WriteLine($"Bensin yang dibutuhkan adalah {totalBensin} liter dan total biaya perjalanan anda adalah {totalBiayaPerjalanan:c}");
