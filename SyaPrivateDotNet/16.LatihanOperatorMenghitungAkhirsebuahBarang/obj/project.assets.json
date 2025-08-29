@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\syadi\\source\\repos\\SyaPrivateDotNet\\11.LatihanOperator2\\11.LatihanOperatorMenghitungTotalBelanja.csproj",
-      "projectName": "11.LatihanOperatorMenghitungTotalBelanja",
-      "projectPath": "C:\\Users\\syadi\\source\\repos\\SyaPrivateDotNet\\11.LatihanOperator2\\11.LatihanOperatorMenghitungTotalBelanja.csproj",
+      "projectUniqueName": "C:\\Users\\syadi\\source\\repos\\SyaPrivateDotNet\\16.LatihanOperatorMenghitungAkhirsebuahBarang\\16.LatihanOperatorMenghitungAkhirsebuahBarang.csproj",
+      "projectName": "16.LatihanOperatorMenghitungAkhirsebuahBarang",
+      "projectPath": "C:\\Users\\syadi\\source\\repos\\SyaPrivateDotNet\\16.LatihanOperatorMenghitungAkhirsebuahBarang\\16.LatihanOperatorMenghitungAkhirsebuahBarang.csproj",
       "packagesPath": "C:\\Users\\syadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\syadi\\source\\repos\\SyaPrivateDotNet\\11.LatihanOperator2\\obj\\",
+      "outputPath": "C:\\Users\\syadi\\source\\repos\\SyaPrivateDotNet\\16.LatihanOperatorMenghitungAkhirsebuahBarang\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
