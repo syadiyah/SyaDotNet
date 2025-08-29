@@ -14,6 +14,6 @@ double jumlahTepung = Convert.ToDouble(Console.ReadLine());
 
 int jumlahTotalTelur = jumlahPorsi * jumlahTelur;
 
-int jumlahTotalTepung = Convert.ToInt32(jumlahTepung) * jumlahPorsi;
+double jumlahTotalTepung = jumlahTepung * jumlahPorsi;
 
 Console.WriteLine($"Dibutuhkan {jumlahTotalTelur} butir telur dan membutuhkan {jumlahTotalTepung} gram tepung.");
