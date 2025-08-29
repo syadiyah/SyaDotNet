@@ -1,5 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+//kalau untuk harga lebih baik gunakan double atau decimal.
+//kalu untuk usia udah pasti int.
+//kalo qyt gunakan double.
+
 /*--------------- LATIHAN 1 OPERASI------------------*/
 Console.WriteLine("LATIHAN 1");
 
@@ -12,7 +16,7 @@ double barangDouble2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Input harga barang 3: ");
 double barangDouble3 = Convert.ToDouble(Console.ReadLine());
 
-int totalHarga = Convert.ToInt32(barangDouble1) + Convert.ToInt32(barangDouble2) + Convert.ToInt32(barangDouble3);
+double totalHarga =barangDouble1 + barangDouble2 + barangDouble3;
 
 double medianHarga = (barangDouble1 + barangDouble2 + barangDouble3) / 3;
 
