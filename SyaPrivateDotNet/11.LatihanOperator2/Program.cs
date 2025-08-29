@@ -24,11 +24,19 @@ Console.WriteLine($"rata rata harga perbarang: {medianHarga:c} ");
 Console.WriteLine("LATIHAN 2");
 
 Console.Write("Input harga bensin perliter: ");
-string txtHargaBensin = Console.ReadLine();
+double hargaBensin = Convert.ToDouble(Console.ReadLine());
 
 Console.Write("Input Jarak tempuh: ");
-string txtJarakTempuh = Console.ReadLine();
+int jarakTempuh = Convert.ToInt32(Console.ReadLine());
 
+Console.Write("Input Kosumsi bahan bakar: ");
+double kosumsiBahanBakar = Convert.ToDouble(Console.ReadLine());
+
+int totalBensin = jarakTempuh / Convert.ToInt32(kosumsiBahanBakar);
+int totalBiayaPerjalanan = totalBensin * Convert.ToInt32(hargaBensin);
+
+
+Console.WriteLine($"Bensin yang dibutuhkan adalah {totalBensin} liter dan total biaya perjalanan anda adalah {totalBiayaPerjalanan :c}");
 
 /*--------------- LATIHAN 3 OPERASI------------------*/
 Console.WriteLine("LATIHAN 3");
