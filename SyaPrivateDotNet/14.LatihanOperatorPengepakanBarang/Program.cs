@@ -3,7 +3,7 @@
 /*--------------- LATIHAN 4 OPERASI------------------*/
 Console.WriteLine("LATIHAN 4");
 
-Console.Write("Input jumlah setiap kotak: ");
+Console.Write("Input jumlah barang: ");
 int jumlahSetiapKotak = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Input kapasitas setiap kotak: ");

@@ -6,10 +6,10 @@ Console.WriteLine("LATIHAN 5");
 Console.Write("Input jumlah porsi: ");
 int jumlahPorsi = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Input jumlah telur: ");
+Console.Write("Input jumlah telur perporsi: ");
 int jumlahTelur = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Input jumlah tepung: ");
+Console.Write("Input jumlah tepung perporsi: ");
 double jumlahTepung = Convert.ToDouble(Console.ReadLine());
 
 int jumlahTotalTelur = jumlahPorsi * jumlahTelur;
