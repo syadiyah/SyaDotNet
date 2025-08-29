@@ -12,6 +12,6 @@ saldo += 150000;
 
 saldo -= 75000;
 
-Console.WriteLine($"Saldo awal Anda: {saldoAwal} :c");
-Console.WriteLine($"Saldo akhir Anda: {saldo} :c");
+Console.WriteLine($"Saldo awal Anda: {saldoAwal:c} ");
+Console.WriteLine($"Saldo akhir Anda: {saldo:c} ");
 
