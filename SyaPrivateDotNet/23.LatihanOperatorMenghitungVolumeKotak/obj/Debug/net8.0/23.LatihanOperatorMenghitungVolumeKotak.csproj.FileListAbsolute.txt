@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\bin\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\bin\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\bin\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\bin\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\bin\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\obj\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\obj\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\obj\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\obj\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\obj\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\obj\Debug\net8.0\refint\23.LatihanOperatorMenghitungVolumeKotak.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\obj\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\obj\Debug\net8.0\23.LatihanOperatorMenghitungVolumeKotak.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\23.LatihanOperatorMenghitungVolumeKotak\obj\Debug\net8.0\ref\23.LatihanOperatorMenghitungVolumeKotak.dll

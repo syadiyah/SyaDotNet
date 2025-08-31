@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\bin\Debug\net8.0\17.LatihanOperatorMenghitungUsia.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\bin\Debug\net8.0\17.LatihanOperatorMenghitungUsia.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\bin\Debug\net8.0\17.LatihanOperatorMenghitungUsia.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\bin\Debug\net8.0\17.LatihanOperatorMenghitungUsia.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\bin\Debug\net8.0\17.LatihanOperatorMenghitungUsia.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\obj\Debug\net8.0\17.LatihanOperatorMenghitungUsia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\obj\Debug\net8.0\17.LatihanOperatorMenghitungUsia.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\obj\Debug\net8.0\17.LatihanOperatorMenghitungUsia.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\obj\Debug\net8.0\17.LatihanOperatorMenghitungUsia.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\obj\Debug\net8.0\17.LatihanOperatorMenghitungUsia.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\obj\Debug\net8.0\refint\17.LatihanOperatorMenghitungUsia.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\obj\Debug\net8.0\17.LatihanOperatorMenghitungUsia.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\obj\Debug\net8.0\17.LatihanOperatorMenghitungUsia.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\17.LatihanOperatorMenghitungUsia\obj\Debug\net8.0\ref\17.LatihanOperatorMenghitungUsia.dll

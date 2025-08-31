@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\bin\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\bin\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\bin\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\bin\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\bin\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\obj\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\obj\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\obj\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\obj\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\obj\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\obj\Debug\net8.0\refint\22.LatihanOperatorMenghitungTotalPoint.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\obj\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\obj\Debug\net8.0\22.LatihanOperatorMenghitungTotalPoint.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\22.LatihanOperatorMenghitungTotalPoint\obj\Debug\net8.0\ref\22.LatihanOperatorMenghitungTotalPoint.dll

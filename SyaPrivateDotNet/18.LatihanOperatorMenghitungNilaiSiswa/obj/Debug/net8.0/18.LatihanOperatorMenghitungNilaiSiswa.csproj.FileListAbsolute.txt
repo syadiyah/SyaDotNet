@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\bin\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\bin\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\bin\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\bin\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\bin\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\obj\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\obj\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\obj\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\obj\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\obj\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\obj\Debug\net8.0\refint\18.LatihanOperatorMenghitungNilaiSiswa.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\obj\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\obj\Debug\net8.0\18.LatihanOperatorMenghitungNilaiSiswa.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\18.LatihanOperatorMenghitungNilaiSiswa\obj\Debug\net8.0\ref\18.LatihanOperatorMenghitungNilaiSiswa.dll

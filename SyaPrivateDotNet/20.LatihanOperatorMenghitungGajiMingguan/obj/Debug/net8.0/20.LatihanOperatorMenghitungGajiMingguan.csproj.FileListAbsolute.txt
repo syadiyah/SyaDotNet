@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\bin\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\bin\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\bin\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\bin\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\bin\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\obj\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\obj\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\obj\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\obj\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\obj\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\obj\Debug\net8.0\refint\20.LatihanOperatorMenghitungGajiMingguan.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\obj\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\obj\Debug\net8.0\20.LatihanOperatorMenghitungGajiMingguan.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\20.LatihanOperatorMenghitungGajiMingguan\obj\Debug\net8.0\ref\20.LatihanOperatorMenghitungGajiMingguan.dll
