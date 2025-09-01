@@ -1,0 +1,14 @@
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\bin\Debug\net8.0\24.Percabangan.exe
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\bin\Debug\net8.0\24.Percabangan.deps.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\bin\Debug\net8.0\24.Percabangan.runtimeconfig.json
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\bin\Debug\net8.0\24.Percabangan.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\bin\Debug\net8.0\24.Percabangan.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\obj\Debug\net8.0\24.Percabangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\obj\Debug\net8.0\24.Percabangan.AssemblyInfoInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\obj\Debug\net8.0\24.Percabangan.AssemblyInfo.cs
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\obj\Debug\net8.0\24.Percabangan.csproj.CoreCompileInputs.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\obj\Debug\net8.0\24.Percabangan.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\obj\Debug\net8.0\refint\24.Percabangan.dll
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\obj\Debug\net8.0\24.Percabangan.pdb
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\obj\Debug\net8.0\24.Percabangan.genruntimeconfig.cache
+C:\Users\syadi\source\repos\SyaPrivateDotNet\24.Percabangan\obj\Debug\net8.0\ref\24.Percabangan.dll

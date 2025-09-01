@@ -4,23 +4,30 @@
 Console.Write("Input nilai: ");
 int nilai = Convert.ToInt32(Console.ReadLine());
 
-if (nilai >= 90)
+if (nilai <= 0 && nilai >= 100)
 {
-    Console.WriteLine("Predikat A");
-} 
-else if (nilai >= 80 && nilai <= 89)
+
+    if (nilai >= 90)
+    {
+        Console.WriteLine("Predikat A");
+    }
+    else if (nilai >= 80 && nilai <= 89)
+    {
+        Console.WriteLine("Predikat B");
+    }
+    else if (nilai >= 70 && nilai <= 79)
+    {
+        Console.WriteLine("Predikat c");
+    }
+    else if (nilai >= 60 && nilai <= 69)
+    {
+        Console.WriteLine("Predikat d");
+    }
+    else
+    {
+        Console.WriteLine("predikat e");
+    }
+} else
 {
-    Console.WriteLine("Predikat B");
-}
-else if (nilai >= 70 && nilai <= 79)
-{
-    Console.WriteLine("Predikat c");
-}
-else if (nilai >= 60 && nilai <= 69)
-{
-    Console.WriteLine("Predikat d");
-} 
-else
-{
-    Console.WriteLine("predikat e");
+    Console.WriteLine("silakan input nilai dari 0 -100");
 }
