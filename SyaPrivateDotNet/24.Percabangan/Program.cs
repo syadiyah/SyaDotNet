@@ -29,5 +29,5 @@ if (nilai <= 0 && nilai >= 100)
     }
 } else
 {
-    Console.WriteLine("silakan input nilai dari 0 -100");
+    Console.WriteLine("silakan input nilai dari 0 - 100");
 }
